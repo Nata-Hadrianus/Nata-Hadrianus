@@ -1,4 +1,5 @@
 <!-- Nome e Título -->
+<!-- Nome e Título -->
 # Nata Hadrianus
 **Front-end Developer | Luanda, Angola**
 
@@ -9,16 +10,28 @@
 
 <!-- Sobre Mim -->
 ### Sobre mim
-Olá! Eu sou Nata Hadrianus, um desenvolvedor front-end de 16 anos apaixonado por tecnologia e design de interfaces. Atualmente, estou localizado em Luanda, Angola. Trabalho com uma variedade de tecnologias, incluindo Bootstrap, JavaScript, TypeScript, Prisma, Materialize, Python, HTML, CSS, Tailwind CSS, Radix, React, Shadcn UI, Next.js, SQL, MySQL, SQLite, Node.js, Emotion, MUI, Ant Design e muito mais. Meu objetivo é criar experiências web incríveis e acessíveis.
+Olá! Eu sou Nata Hadrianus, um desenvolvedor front-end de 16 anos apaixonado por tecnologia e design de interfaces. Atualmente, estou localizado em Luanda, Angola. Trabalho com uma variedade de tecnologias, incluindo:
 
+<!-- Linguagens de Programação com Ícones -->
+- ![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue?style=flat-square&logo=typescript)
 
+<!-- Frameworks Front-end com Ícones -->
+### Frameworks e Biblioteca Front-end
+<!-- Frameworks com Ícones -->
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-purple?style=flat-square&logo=bootstrap)
+- ![Foundation](https://img.shields.io/badge/Foundation-Advanced-orange?style=flat-square&logo=foundation)
+- ![Emotion](https://img.shields.io/badge/Emotion-Advanced-pink?style=flat-square&logo=emotion)
+- ![Material-UI](https://img.shields.io/badge/Material--UI-Advanced-blue?style=flat-square&logo=material-ui)
+- ![Swiper](https://img.shields.io/badge/Swiper-Advanced-green?style=flat-square&logo=swiper)
+- ![Radix](https://img.shields.io/badge/Radix-Advanced-lightblue?style=flat-square)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Advanced-teal?style=flat-square&logo=tailwind-css)
+- ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-Advanced-orange?style=flat-square)
+- ![Materialize](https://img.shields.io/badge/Materialize-Advanced-blue?style=flat-square&logo=materialize-css)
+- ![Lucide Icons](https://img.shields.io/badge/Lucide%20Icons-Advanced-purple?style=flat-square)
+- ![Styled-components](https://img.shields.io/badge/Styled--components-Advanced-pink?style=flat-square)
 
-<!-- Habilidades -->
-### Habilidades
-- Linguagens de Programação: ![Javascript](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
-- Frameworks Front-end: ![React](https://img.shields.io/badge/React-Next.js%20%7C%20Tailwind%20CSS-blue?style=flat-square)
-- Banco de Dados: ![MySQL](https://img.shields.io/badge/MySQL-SQLite%20%7C%20Prisma-blue?style=flat-square&logo=mysql)
-- UI/UX Design: ![Materialize](https://img.shields.io/badge/Materialize-Ant%20Design%20%7C%20MUI-green?style=flat-square)
 
 <!-- Estatísticas de Contribuição -->
 ### Estatísticas de Contribuição
