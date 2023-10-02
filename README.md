@@ -1,7 +1,7 @@
 <!-- Nome e Título -->
-<!-- Nome e Título -->
 # Nata Hadrianus
 **Front-end Developer | Luanda, Angola**
+
 
 <!-- Ícones de Redes Sociais -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)
@@ -10,32 +10,37 @@
 
 <!-- Sobre Mim -->
 ### Sobre mim
-Olá! Eu sou Nata Hadrianus, um desenvolvedor front-end de 16 anos apaixonado por tecnologia e design de interfaces. Atualmente, estou localizado em Luanda, Angola. Trabalho com uma variedade de tecnologias, incluindo:
+Olá! Eu sou Nata Hadrianus, um desenvolvedor front-end de 16 anos apaixonado por tecnologia e design de interfaces. Atualmente, estou localizado em Luanda, Angola. Trabalho com uma variedade de tecnologias e frameworks, incluindo:
 
-<!-- Linguagens de Programação com Ícones -->
-- ![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue?style=flat-square&logo=typescript)
+#### Tecnologias que uso
 
-<!-- Frameworks Front-end com Ícones -->
-### Frameworks e Biblioteca Front-end
-<!-- Frameworks com Ícones -->
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-purple?style=flat-square&logo=bootstrap)
-- ![Foundation](https://img.shields.io/badge/Foundation-Advanced-orange?style=flat-square&logo=foundation)
-- ![Emotion](https://img.shields.io/badge/Emotion-Advanced-pink?style=flat-square&logo=emotion)
-- ![Material-UI](https://img.shields.io/badge/Material--UI-Advanced-blue?style=flat-square&logo=material-ui)
-- ![Swiper](https://img.shields.io/badge/Swiper-Advanced-green?style=flat-square&logo=swiper)
-- ![Radix](https://img.shields.io/badge/Radix-Advanced-lightblue?style=flat-square)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Advanced-teal?style=flat-square&logo=tailwind-css)
-- ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-Advanced-orange?style=flat-square)
-- ![Materialize](https://img.shields.io/badge/Materialize-Advanced-blue?style=flat-square&logo=materialize-css)
-- ![Lucide Icons](https://img.shields.io/badge/Lucide%20Icons-Advanced-purple?style=flat-square)
-- ![Styled-components](https://img.shields.io/badge/Styled--components-Advanced-pink?style=flat-square)
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="materialize" src="https://img.shields.io/badge/Materialize-039BE5?style=for-the-badge&logo=materialize-css&logoColor=white" />
+  <img align="center" alt="material-ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img align="center" alt="radix" src="https://img.shields.io/badge/Radix-29A745?style=for-the-badge" />
+  <img align="center" alt="emotion" src="https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge" />
+  <img align="center" alt="shadcn-ui" src="https://img.shields.io/badge/Shadcn%20UI-FF5A60?style=for-the-badge" />
+  <img align="center" alt="swiper" src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!-- Adicione mais tecnologias aqui -->
+</div>
 
 
-<!-- Estatísticas de Contribuição -->
+
+#### Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue?style=flat-square&logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-blue?style=flat-square&logo=sqlite) ![Prisma](https://img.shields.io/badge/Prisma-Intermediate-green?style=flat-square&logo=prisma)
+
 ### Estatísticas de Contribuição
 ![Estatísticas de Contribuição](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&theme=dark)
 
-<!-- Gráfico de Linguagens mais Usadas -->
+### Gráfico de Linguagens mais Usadas
 ![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuario&layout=compact&theme=dark)
