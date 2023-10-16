@@ -4,13 +4,12 @@
 
 
 <!-- Ícones de Redes Sociais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)
-[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=google-chrome)](https://seu-site.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-red?style=flat-square&logo=gmail)](mailto:seu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/nata-hadrianus-224b9224b)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-red?style=flat-square&logo=gmail)](mailto:natahadrianus1@gmail.com)
 
 <!-- Sobre Mim -->
 ### Sobre mim
-Olá! Eu sou Nata Hadrianus, um desenvolvedor front-end de 16 anos apaixonado por tecnologia e design de interfaces. Atualmente, estou localizado em Luanda, Angola. Trabalho com uma variedade de tecnologias e frameworks, incluindo:
+Olá! Eu sou Nata Hadrianus, uma desenvolvedora front-end de 16 anos apaixonada por tecnologia e design de interfaces. Atualmente, estou localizado em Luanda, Angola. Trabalho com uma variedade de tecnologias e frameworks, incluindo:
 
 #### Tecnologias que uso
 
