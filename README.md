@@ -38,8 +38,4 @@ Olá! Eu sou Nata Hadrianus, uma desenvolvedora front-end de 16 anos apaixonada 
 #### Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue?style=flat-square&logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-blue?style=flat-square&logo=sqlite) ![Prisma](https://img.shields.io/badge/Prisma-Intermediate-green?style=flat-square&logo=prisma)
 
-### Estatísticas de Contribuição
-![Estatísticas de Contribuição](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&theme=dark)
 
-### Gráfico de Linguagens mais Usadas
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuario&layout=compact&theme=dark)
